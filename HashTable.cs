@@ -1,7 +1,7 @@
 namespace HashTable{
   class Hash1{
     // Create a Hashtable
-Hashtable capitals = new Hashtable();
+Hash1 capitals = new Hash1();
 
 // Add key-value pairs
 capitals.Add("Person1", "Jane");
